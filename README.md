@@ -1,4 +1,4 @@
-# Sistem-Pakar-Metode-teorema-bayes
+# Sistem-Pakar-Metode-teorema-bayes-bisis-android
 sistem pakar metode teorema bayes basis android 
 
 ![dhistory](https://user-images.githubusercontent.com/109220544/178736415-0e36759f-aaac-4fc8-abad-d5dbe19a3900.png)
